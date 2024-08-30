@@ -5,3 +5,5 @@ ZCZC W00 100 L02 Attend w0 second lecture
 ZCZC W00 20 L11 Download and preinstall virtualbox and debian
 ZCZC W00 25 L10 Do reading assignment
 ZCZC W00 5 L05 Check and gather materials for quiz w0
+ZCZC W00 120 L05 Review all the materials for the quiz w0
+ZCZC W00 25 L05 Attend the zoom and having troubles with the SEB for quiz w0 until attempting it
