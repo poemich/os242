@@ -1,5 +1,5 @@
 ZCZC W00 15 L10 GitHub related
-ZCZC W00 100 L02 Atten w0 first lecure
+ZCZC W00 100 L02 Attend w0 first lecure
 ZCZC W00 10 L10 Reinitialize GitHub Repo
 ZCZC W00 100 L02 Attend w0 second lecture
 ZCZC W00 20 L11 Download and preinstall virtualbox and debian
@@ -7,3 +7,4 @@ ZCZC W00 25 L10 Do reading assignment
 ZCZC W00 5 L05 Check and gather materials for quiz w0
 ZCZC W00 120 L05 Review all the materials for the quiz w0
 ZCZC W00 25 L05 Attend the zoom and having troubles with the SEB for quiz w0 until attempting it
+ZCZC W01 100 L02 Attend w1 first lecure
