@@ -1,4 +1,9 @@
 ---
-permalink: 
+permalink: LINKS/
 
 ---
+
+## [HOME](../)
+
+# LINKS
+
