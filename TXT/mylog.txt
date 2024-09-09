@@ -12,3 +12,5 @@ ZCZC W01 35 L11 Assignment week 1
 ZCZC W01 100 L02 Attend w1 second lecure
 ZCZC W01 30 L11 Finish assignment 
 ZCZC W01 25 L04 reinitialize github page
+ZCZC W01 100 L02 Attend w2 first lecure
+ZCZC W02 40 L02 Assignment week 2
