@@ -13,5 +13,6 @@ ZCZC W01 100 L02 Attend w1 second lecure
 ZCZC W01 30 L11 Finish assignment 
 ZCZC W01 25 L04 reinitialize github page
 ZCZC W01 100 L02 Attend w2 first lecture
-ZCZC W02 40 L02 Assignment week 2
+ZCZC W02 40 L12 Assignment week 2
 ZCZC W01 100 L02 Attend w2 second lecture
+ZCZC W01 90 L12 popquiz assignment
