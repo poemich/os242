@@ -16,3 +16,4 @@ ZCZC W02 100 L02 Attend w2 first lecture
 ZCZC W02 40 L12 Assignment week 2
 ZCZC W02 100 L02 Attend w2 second lecture
 ZCZC W02 90 L12 popquiz assignment
+ZCZC W02 35 L12 Finish and recheck assignment week 2
