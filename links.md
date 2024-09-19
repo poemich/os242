@@ -1,4 +1,4 @@
----
+/bin/bash: line 1: q: command not found
 permalink: LINKS/
 ---
 
@@ -14,6 +14,9 @@ permalink: LINKS/
 
 * [Bash Basic](https://www.youtube.com/watch?v=tK9Oc6AEnR4){:target="_blank"} ---
   Learn the basic of bash in this youtube video.
+
+* [Tar and Gzip tutorial](https://youtu.be/2iwumBcfd58?si=p0Xs3jXgZs9VUjos){:target="_blank"} ---
+  Learn archiving files and folder with this youtube crash course.
 <br>
 <br>
 #### REV: Wed 11 Sep 2024 11:15
