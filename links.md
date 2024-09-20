@@ -1,4 +1,4 @@
-/bin/bash: line 1: q: command not found
+---
 permalink: LINKS/
 ---
 
@@ -19,5 +19,5 @@ permalink: LINKS/
   Learn archiving files and folder with this youtube crash course.
 <br>
 <br>
-#### REV: Wed 11 Sep 2024 11:15
+#### REV: Fri 20 Sep 2024 16:30
 <hr>
