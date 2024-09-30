@@ -23,4 +23,9 @@ ZCZC W03 70 L13 pop quiz forum
 ZCZC W03 30 L13 Assignment w3 #4 - #5
 ZCZC W03 15 L01 Check Scele
 ZCZC W03 30 L04 Github links
+ZCZC W04 100 L02 Attend w4 first lecture
+ZCZC W04 100 L02 Attend w4 second lecture
+ZCZC W04 50 L14 Weekly assignment w4
+ZCZC W04 40 L14 Weekly assignment w4 finishing
+ZCZC W04 90 L14 Popquiz w4
 

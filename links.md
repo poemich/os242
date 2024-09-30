@@ -17,7 +17,10 @@ permalink: LINKS/
 
 * [Tar and Gzip tutorial](https://youtu.be/2iwumBcfd58?si=p0Xs3jXgZs9VUjos){:target="_blank"} ---
   Learn archiving files and folder with this youtube crash course.
+
+* [Tar and Gzip tutorial](https://youtu.be/2iwumBcfd58?si=p0Xs3jXgZs9VUjos){:target="_blank"} ---
+  Learn archiving files and folder with this youtube crash course.
 <br>
 <br>
-#### REV: Fri 20 Sep 2024 16:30
+#### REV: Mon 30 Sep 2024 11:00
 <hr>
