@@ -32,5 +32,7 @@ ZCZC W05 150 L15 Weekly assignment w5
 ZCZC W05 90 L15 Pop quiz forum w5
 ZCZC W05 60 L15 Pop quiz w5 test and its preparation
 ZCZC W05 60 L15 w5 finishing 0
-
+ZCZC W06 100 L02 Attend W6 first lecture
+ZCZC W06 40 L16 Weekly assignment w6
+ZCZC W06 60 L16 pop quiz w6
 
