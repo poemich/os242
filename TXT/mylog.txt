@@ -35,4 +35,6 @@ ZCZC W05 60 L15 w5 finishing 0
 ZCZC W06 100 L02 Attend W6 first lecture
 ZCZC W06 40 L16 Weekly assignment w6
 ZCZC W06 60 L16 pop quiz w6
+ZCZC W06 90 L16 pop quiz w6 attempt 2
+ZCZC W06 30 L16 Weekly assignment w6 finishing
 
