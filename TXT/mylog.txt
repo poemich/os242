@@ -37,4 +37,10 @@ ZCZC W06 40 L16 Weekly assignment w6
 ZCZC W06 60 L16 pop quiz w6
 ZCZC W06 90 L16 pop quiz w6 attempt 2
 ZCZC W06 30 L16 Weekly assignment w6 finishing
+ZCZC W07 100 L02 Attend W7 first lecture
+ZCZC W07 90 L17 Weekly assignment
+ZCZC W07 100 L02 Attend W7 second lecture
+ZCZC W07 60 L17 Weekly assignment finishing
+ZCZC W07 60 L17 pop quiz prep and the actual test
+ZCZC W07 120 L17 pop quiz w7
 
