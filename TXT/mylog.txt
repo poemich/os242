@@ -43,4 +43,7 @@ ZCZC W07 100 L02 Attend W7 second lecture
 ZCZC W07 60 L17 Weekly assignment finishing
 ZCZC W07 60 L17 pop quiz prep and the actual test
 ZCZC W07 120 L17 pop quiz w7
+ZCZC W08 210 L18 assignment attempt 0
+ZCZC W08 120 L18 pop quiz w8
+ZCZC W08 200 L18 assignment and popquiz w8 finishing
 
